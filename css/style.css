@@ -1,0 +1,94 @@
+.bg-light {
+    background-color: rgb(51, 51, 51)!important;
+}
+.navbar-light .navbar-brand {
+    color: #fff;
+}
+.navbar-light .navbar-brand:hover{
+    color: #fff;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #fff;
+}
+.banner{
+    background-image: url(../images/showcase.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 100vh; */
+    color: #fff;
+}
+.banner p{
+    font-weight: 500;
+}
+.banner h1{
+    font-size: 4rem;
+}
+.banner i{
+    color: #fff;
+}
+.my-song-section{
+    background-color: rgb(37, 37, 41);
+    color: #fff;
+}
+.my-song-section #stream{
+    font-weight: 400;
+}
+.btn-danger {
+    color: #fff;
+    background-color: #b90415;
+    border-color: #b90415;
+    padding: 1rem;
+    border-radius: 0;
+}
+.btn-danger:hover{
+    color: #fff;
+    background-color: #d3071b;
+    border-color: #d3071b;
+}
+.tv-movie p{
+    font-weight: 400;
+}
+#read-more{
+    background-color: #103063;
+    border-color: #103063;
+    padding: 1rem;
+    border-radius: 0;
+}
+.entertainment-section{
+    background-image: url(../images/section-bg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 80vh; */
+    color: #fff;
+    min-height: 80vh;
+}
+.redeem{
+    text-decoration: none;
+    color: #103063;
+    font-weight: 600;
+}
+.redeem:hover{
+    color: #103063;
+}
+.footer-1{
+    background-color: rgb(37, 37, 41);
+    color: #fff;
+}
+.footer-1 ul{
+    padding: 0;
+}
+.footer-1 ul li{
+    list-style: none;
+}
+.footer-1 ul a{
+    text-decoration: none;
+    color: rgb(204, 204, 204);
+    font-size: .9em;
+}
+.footer-2{
+    background-color: rgb(51, 51, 51);
+    color: #fff;
+}
