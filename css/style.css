@@ -62,7 +62,6 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    /* height: 80vh; */
     color: #fff;
     padding: 120px;
 }
@@ -95,4 +94,13 @@
 .footer-2{
     background-color: rgb(51, 51, 51);
     color: #fff;
+}
+
+/* Media Queries */
+@media only screen and (max-width: 576px) {
+
+    .footer-1{
+        display: none;
+    }
+
 }
