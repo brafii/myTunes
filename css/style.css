@@ -61,9 +61,10 @@
     background-image: url(../images/section-bg.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     /* height: 80vh; */
     color: #fff;
-    min-height: 80vh;
+    padding: 120px;
 }
 .redeem{
     text-decoration: none;
