@@ -66,6 +66,9 @@
     color: #fff;
     padding: 120px;
 }
+.enter-content p{
+    font-weight: 400;
+}
 .redeem{
     text-decoration: none;
     color: #103063;
